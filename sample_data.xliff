@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="178" original="/Localizable.strings" source-language="en" target-language="fr-CA" datatype="plaintext" project-id="503696" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="17000" resname="Account Display Name" approved="yes">
+        <source>Account Display Name</source>
+        <target state="final">Nom d'affichage du compte</target>
+        <note from="Crowdin" priority="2">Account Display Name
+No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="17002" resname="Active &amp; Pending" approved="yes">
+        <source>Active &amp; Pending</source>
+        <target state="final">Actif et en attente</target>
+        <note from="Crowdin" priority="2">Active &amp; Pending
+No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="17064" resname="Cancel Pending Update Request" approved="yes">
+        <source>Cancel Pending Update Request</source>
+        <target state="final">Annuler la demande de mise à jour en attente</target>
+        <note from="Crowdin" priority="2">Cancel Pending Update Request
+No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="17008" resname="Confirm your identity" approved="yes">
+        <source>Confirm your identity</source>
+        <target state="final">Confirmer votre identité</target>
+        <note from="Crowdin" priority="2">Confirm your identity
+No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="17010" resname="Declined Transaction" approved="yes">
+        <source>Declined Transaction</source>
+        <target state="final">Transaction refusée</target>
+        <note from="Crowdin" priority="2">Declined Transaction
+No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="17014" resname="Finally, review and complete your account registration" approved="yes">
+        <source>Finally, review and complete your account registration</source>
+        <target state="final">Enfin, examinez et terminez l'enregistrement de votre compte</target>
+        <note from="Crowdin" priority="2">Finally, review and complete your account registration
+No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="17022" resname="No results.  Please clear the filter and try again." approved="yes">
+        <source>No results.  Please clear the filter and try again.</source>
+        <target state="final">Aucun résultat. Veuillez réinitialiser le filtre et réessayer.</target>
+        <note from="Crowdin" priority="2">No results.  Please clear the filter and try again.
+No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="17024" resname="Please enter one or more emails" approved="yes">
+        <source>Please enter one or more emails</source>
+        <target state="final">Veuillez entrer une ou plusieurs adresses de courriel</target>
+        <note from="Crowdin" priority="2">Please enter one or more emails
+No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="17060" resname="Your Profile" approved="yes">
+        <source>Your Profile</source>
+        <target state="final">Votre profil</target>
+        <note from="Crowdin" priority="2">Your Profile
+No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
